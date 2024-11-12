@@ -1,0 +1,81 @@
+
+Results for C = 0.7:
+==================================================
+
+Similar nodes to 2982615777:
+------------------------------
+Node: 2605269223, Similarity: 0.3039
+Node: 2129988636, Similarity: 0.2949
+Node: 2604445413, Similarity: 0.2843
+Node: 2573184146, Similarity: 0.2761
+Node: 2410108711, Similarity: 0.2699
+Node: 1999984505, Similarity: 0.2606
+Node: 2150881840, Similarity: 0.1445
+Node: 2125859743, Similarity: 0.1393
+Node: 1951816589, Similarity: 0.1323
+
+Similar nodes to 1556418098:
+------------------------------
+Node: 2912205033, Similarity: 0.2314
+Node: 2147345946, Similarity: 0.2207
+Node: 2107612715, Similarity: 0.2150
+Node: 2150203549, Similarity: 0.2077
+Node: 2051834357, Similarity: 0.2012
+Node: 2042281163, Similarity: 0.1953
+Node: 2164374228, Similarity: 0.1939
+Node: 2172118809, Similarity: 0.1888
+Node: 2048748336, Similarity: 0.1569
+
+Results for C = 0.8:
+==================================================
+
+Similar nodes to 2982615777:
+------------------------------
+Node: 2605269223, Similarity: 0.3789
+Node: 2129988636, Similarity: 0.3746
+Node: 2604445413, Similarity: 0.3686
+Node: 2573184146, Similarity: 0.3636
+Node: 2410108711, Similarity: 0.3594
+Node: 1999984505, Similarity: 0.3533
+Node: 2150881840, Similarity: 0.1666
+Node: 2125859743, Similarity: 0.1607
+Node: 1951816589, Similarity: 0.1528
+
+Similar nodes to 1556418098:
+------------------------------
+Node: 2912205033, Similarity: 0.2830
+Node: 2147345946, Similarity: 0.2700
+Node: 2107612715, Similarity: 0.2650
+Node: 2150203549, Similarity: 0.2536
+Node: 2051834357, Similarity: 0.2466
+Node: 2042281163, Similarity: 0.2400
+Node: 2164374228, Similarity: 0.2386
+Node: 2172118809, Similarity: 0.2327
+Node: 2048748336, Similarity: 0.1806
+
+Results for C = 0.9:
+==================================================
+
+Similar nodes to 2982615777:
+------------------------------
+Node: 2605269223, Similarity: 0.4524
+Node: 2129988636, Similarity: 0.4500
+Node: 2604445413, Similarity: 0.4461
+Node: 2573184146, Similarity: 0.4422
+Node: 2410108711, Similarity: 0.4392
+Node: 1999984505, Similarity: 0.4347
+Node: 2150881840, Similarity: 0.1914
+Node: 2125859743, Similarity: 0.1848
+Node: 1951816589, Similarity: 0.1760
+
+Similar nodes to 1556418098:
+------------------------------
+Node: 2912205033, Similarity: 0.3360
+Node: 2147345946, Similarity: 0.3199
+Node: 2107612715, Similarity: 0.3146
+Node: 2150203549, Similarity: 0.2999
+Node: 2051834357, Similarity: 0.2912
+Node: 2042281163, Similarity: 0.2838
+Node: 2164374228, Similarity: 0.2823
+Node: 2172118809, Similarity: 0.2748
+Node: 2048748336, Similarity: 0.2092
