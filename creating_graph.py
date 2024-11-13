@@ -40,7 +40,6 @@ insert_data(data)
 # The Below is for verifying the graph in Neo4j
 # MATCH (p:Paper)-[:CITES]->(ref:Paper)
 # RETURN p, ref
-# LIMIT 300
 
 
 # Exporting the csv from Neo4j
